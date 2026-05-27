@@ -81,7 +81,7 @@ print(df.head())
 | Jim.pictures      | premium   | $18.20    | $18.20        | 78             | 28     | 3      | namecheap                                                 |
 | blocks.pictures   | available | $9.99     | —             | 53             | 29     | 6      | name.com                                                  |
 | tips.pictures     | premium   | $16.99    | —             | 80             | 26     | 4      | name.com                                                  |
-| plz.pictures      | premium   | $16.99    | —             | 72             | 14     | 3      | name.com                                                  |
+| plz.pictures      | premium   | $16.99    | —             | 72             | 15     | 3      | name.com                                                  |
 | forms.pictures    | available | $9.99     | —             | 54             | 28     | 5      | name.com                                                  |
 | horses.pictures   | premium   | $16.99    | —             | 56             | 14     | 6      | name.com                                                  |
 
