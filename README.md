@@ -1,10 +1,10 @@
-# Available .PICTURES One-Word Domains (11,904)
+# Available .PICTURES One-Word Domains (12,845)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C904%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C845%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pictures one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,904 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,845 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,904 domains · **Median ask:** $13.06 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 12,845 domains · **Median ask:** $13.38 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/pictures`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| period.pictures | available | $9.99     | —             | high           | low    | 6      | name.com                                    |
-| acne.pictures   | available | $9.99     | —             | medium         | low    | 4      | name.com                                    |
-| ass.pictures    | resell    | —         | —             | medium         | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| ala.pictures    | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo                                    |
-| bags.pictures   | available | $9.99     | —             | medium         | low    | 4      | name.com                                    |
-| eat.pictures    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
-| ale.pictures    | premium   | $15.34    | $15.34        | medium         | low    | 3      | namesilo                                    |
-| barn.pictures   | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
-| fish.pictures   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
-| ate.pictures    | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo                                    |
-| bear.pictures   | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
-| gold.pictures   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                |
-| axe.pictures    | premium   | $15.34    | $15.34        | medium         | low    | 3      | namesilo                                    |
-| bern.pictures   | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
-| head.pictures   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                |
-| bee.pictures    | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                                    |
-| bite.pictures   | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
-| list.pictures   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 44                           |
-| beg.pictures    | premium   | $15.34    | $15.34        | medium         | low    | 3      | namesilo                                    |
-| bore.pictures   | available | $9.99     | $18.99        | high           | low    | 4      | name.com                                    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| acne.pictures | available | $9.99     | —             | medium         | low    | 4      | name.com                                    |
+| ass.pictures  | resell    | —         | —             | low            | low    | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| ala.pictures  | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo                                    |
+| bags.pictures | available | $9.99     | —             | medium         | low    | 4      | name.com                                    |
+| eat.pictures  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
+| ale.pictures  | premium   | $15.34    | $15.34        | medium         | low    | 3      | namesilo                                    |
+| barn.pictures | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
+| fish.pictures | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                            |
+| ate.pictures  | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo                                    |
+| bear.pictures | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
+| gold.pictures | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                |
+| axe.pictures  | premium   | $15.34    | $15.34        | medium         | low    | 3      | namesilo                                    |
+| bern.pictures | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
+| head.pictures | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                |
+| bee.pictures  | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                                    |
+| bite.pictures | available | $9.99     | —             | high           | low    | 4      | name.com                                    |
+| list.pictures | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 44                           |
+| beg.pictures  | premium   | $15.34    | $15.34        | medium         | low    | 3      | namesilo                                    |
+| bore.pictures | available | $9.99     | $18.99        | high           | low    | 4      | name.com                                    |
+| tree.pictures | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,904 live domains                        |
+| 1,000-row public sample | 12,845 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PICTURES One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PICTURES One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
