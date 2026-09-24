@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pictures one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,732 domains · **Median ask:** $15.29 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/pictures`
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | gold.pictures    | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC                                |
 | bee.pictures     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo                                    |
 | bite.pictures    | available | $15.49    | $15.49        | medium         | low    | 4      | namesilo                                    |
-| head.pictures    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                |
+| list.pictures    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 44                           |
 | beg.pictures     | premium   | $15.34    | $15.34        | medium         | low    | 3      | namesilo                                    |
 | bore.pictures    | available | $9.99     | $18.99        | high           | low    | 4      | name.com                                    |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PICTURES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PICTURES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
