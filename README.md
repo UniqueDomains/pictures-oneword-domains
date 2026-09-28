@@ -1,10 +1,10 @@
-# Available .PICTURES One-Word Domains (22,680)
+# Available .PICTURES One-Word Domains (23,222)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C680%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C222%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .pictures one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,680 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,222 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,680 domains · **Median ask:** $16.35 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 23,222 domains · **Median ask:** $16.33 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/pictures`
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| alee.pictures   | available | $15.49    | $15.49        | low            | low    | 4      | namesilo        |
+| cfa.pictures    | available | $15.34    | $15.34        | high           | low    | 3      | namesilo        |
 | bold.pictures   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
 | abc.pictures    | premium   | $15.34    | $15.34        | high           | medium | 3      | namesilo        |
-| anew.pictures   | available | $16.48    | $20.98        | high           | low    | 4      | namecheap       |
+| jin.pictures    | available | $15.34    | $15.34        | high           | low    | 3      | namesilo        |
 | earth.pictures  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
 | aku.pictures    | premium   | $16.90    | $16.90        | high           | low    | 3      | namecheap       |
-| apis.pictures   | available | $16.48    | $20.98        | high           | medium | 4      | namecheap       |
+| alee.pictures   | available | $15.49    | $15.49        | low            | low    | 4      | namesilo        |
 | indigo.pictures | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
 | alb.pictures    | premium   | $16.90    | $16.90        | high           | low    | 3      | namecheap       |
-| aqua.pictures   | available | $15.49    | $15.49        | high           | medium | 4      | namesilo        |
+| anew.pictures   | available | $16.48    | $20.98        | high           | low    | 4      | namecheap       |
 | mental.pictures | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc. |
-| ana.pictures    | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo        |
-| aril.pictures   | available | $16.48    | $20.98        | medium         | low    | 4      | namecheap       |
-| mirror.pictures | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc. |
 | awl.pictures    | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo        |
-| arng.pictures   | available | $15.49    | $15.49        | medium         | low    | 4      | namesilo        |
+| apis.pictures   | available | $16.48    | $20.98        | high           | medium | 4      | namecheap       |
+| mirror.pictures | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc. |
 | baa.pictures    | premium   | $15.34    | $15.34        | high           | low    | 3      | namesilo        |
-| asur.pictures   | available | $15.49    | $15.49        | medium         | low    | 4      | namesilo        |
+| aril.pictures   | available | $16.48    | $20.98        | medium         | low    | 4      | namecheap       |
+| cbd.pictures    | premium   | $13.66    | $13.66        | high           | low    | 3      | spaceship       |
+| arng.pictures   | available | $15.49    | $15.49        | medium         | low    | 4      | namesilo        |
 | fit.pictures    | premium   | $16.90    | $16.90        | high           | medium | 3      | namecheap       |
-| axon.pictures   | available | $15.49    | $15.49        | high           | low    | 4      | namesilo        |
+| asur.pictures   | available | $15.49    | $15.49        | medium         | low    | 4      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,680 live domains                        |
+| 1,000-row public sample | 23,222 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
